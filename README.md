@@ -1,4 +1,5 @@
-# Emilia
+# KomodoBot
+## Based from [EmiliaHikari](https://github.com/AyraHikari/EmiliaHikari)
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
